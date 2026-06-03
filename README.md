@@ -24,7 +24,7 @@ ChronoDebug Pro provides an intuitive way to track, visualize, and analyze progr
 - Real-time function call tracking
 - Interactive timeline visualization
 - Performance profiling with color-coded metrics
-- Export functionality (TXT, PDF)
+- Export functionality (TXT)
 - Cross-platform support (Windows, Linux, macOS)
 - Minimal code integration required
 
@@ -100,6 +100,7 @@ Institution: NUST(National University Of Sciences And Technology)
 Team Size: Solo Project
 
 🔮 Future Enhancements
+Visualisation of Execution of Code
 Memory usage profiling
 Multi-threaded program support
 Integration with popular IDEs as plugins
